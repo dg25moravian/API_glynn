@@ -1,6 +1,6 @@
 # API
 
-This repo is for testing CICD elements with a specialized stack, sam-app-CICD-testing.  Please note that this repo's behaviour differs from upstream because it pushes to this testing stack rather than sam-app-prod
+This repo is for testing CICD elements with a specialized stack, sam-app-CICD-testing.  Please note that this repo's behaviour differs from upstream because it pushes to this testing stack rather than sam-app-prod.
 
 ## How to run the API for testing
 
